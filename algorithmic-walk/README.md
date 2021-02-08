@@ -2,7 +2,7 @@
 
 _transcribed from a voice memo recording I took at the end of my walk when I finished following my instructions_
 
-![sign in front of a house with arrows pointing opposite directions]({{site.baseurl}}/algorithmic-walk/IMG_7635.JPG)
+![sign with arrows pointing opposite directions]({{site.baseurl}}/algorithmic-walk/IMG_7637.JPG)
 
 Ok, so this is the end of my second algorithmic walk. I'm about a mile from home, about 12 or 13 minutes. I've also spun in a crude circle but in a different route than my previous walk. This time my instructions were to go forward two blocks, right one, choose a random direction, then go forward 3 blocks, left forward one, and choose a random direction. Then repeat that whole instruction a second time.
 
