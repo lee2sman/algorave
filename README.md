@@ -1,4 +1,4 @@
-Notes on projects and experimental from Drawing, Moving, and Seeing with Code
+Notes on projects and experiments from Drawing, Moving, and Seeing with Code
 
 ### Posts
 
