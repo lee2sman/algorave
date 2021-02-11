@@ -2,16 +2,16 @@
 
 _transcribed from a voice memo recording I took at the end of my walk when I finished following my instructions_
 
-![sign with arrows pointing opposite directions]({{site.baseurl}}/algorithmic-walk/IMG_7637.JPG)
+![sign with arrows pointing opposite directions]({{site.baseurl}}/images/IMG_7637.JPG)
 
 Ok, so this is the end of my second algorithmic walk. I'm about a mile from home, about 12 or 13 minutes. I've also spun in a crude circle but in a different route than my previous walk. This time my instructions were to go forward two blocks, right one, choose a random direction, then go forward 3 blocks, left forward one, and choose a random direction. Then repeat that whole instruction a second time.
 
-![algorithmic walk instructions]({{site.baseurl}}/algorithmic-walk/IMG_7632.JPG)  
+![algorithmic walk instructions]({{site.baseurl}}/images/IMG_7632.JPG)  
 *My walking algorithim*  
 
 And my randomness function was...-this is going to sound so stupid- pick an interesting-looking direction to turn. In other words, an interesting street to go down essentially, which is actually pretty different from what i was going to do after my first walk. My first randomness function was to pick a block that seemed to have the least number of people on it and walk that way. And I was like...that's too arbitrary so next time you should roll a four sided die. Also, because it's snowing now, a blizzard, I was thinking maybe it would make sense to use the snow somehow to decide the direction to go but i can't figure out what that would be. So instead I picked interestingness to figure out what direction to go, probably because I'm bored a little bit, and I thought a good way to distinguish between people and algorithms or *automatons* is to think about that. What is actually interesting? An automaton or software doesn't care what's interesting. It has no ability to think. It just executes. But as humans, obviously that's a big distinction. We bring all the other things to bear that make us human. I won't get into all of that now. One thinks or feels out the answer to the questions: am i bored? do i find this interesting? what am i getting out of this? And yes, I created this assignment and have been prepared to treat this like I'm an automaton but evidently i've introduced interestingness to my software for my algorithmic walk. Which of course a computer would not be able to do, or you'd have to introduce a definition of what interestingness means. But I'm a person, and I never defined it for this walk. I just did it. I picked, and it made my walk more interesting because of it. I think I basically chose directions by feel when I didn't know what was on that street or what was down a block. Or buildings or spaces I wanted to see. Maybe it's similar to how I take a 'regular walk' in the city and I'm looking for graffiti or strange buildings or spaces to check out and examine. It's a similar thing and i introduced that process in a somewhat more formal way to my walk algorithm. 
 
-![a snowy walk]({{site.baseurl}}/algorithmic-walk/IMG_7635.JPG)
+![a snowy walk]({{site.baseurl}}/images/IMG_7635.JPG)
 
 I still think it could be useful to do a purely random function similar to how a computer would, like not based off of human subjective matters. But subjectivity breaks into this anyway. For example, one part of my instructions say to go 3 blocks forward. But some streets are really long, And some streets are really short. And some might have a street that branches out on one side, like a 3 way intersection. Is that the end of a block, o is a block complete until it's a 4 way intersection? I didn't come to a conclusion on that but I didn't have to deal with that this time because I didn't come to any 3-way intersections. The other thing to consider is human fallibility. At some point I forget if I had gone 2 or 3 blocks and I just made a judgement call. So there's always subjectivity when it comes to humans. 
 
