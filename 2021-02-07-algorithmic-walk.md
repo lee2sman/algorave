@@ -1,4 +1,4 @@
-## Algorithmic Walk II
+## Algorithmic Walk II ⚙️
 
 _transcribed from a voice memo recording I took at the end of my walk when I finished following my instructions_
 
