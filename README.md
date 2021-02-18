@@ -13,4 +13,6 @@ Notes on projects and experiments from Drawing, Moving, and Seeing with Code
 [p5.js](https://p5js.org/)
 
 
+### Images
 
+![Snails!]({{site.baseurl}}/snails3.png)
