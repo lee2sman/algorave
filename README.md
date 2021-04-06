@@ -8,6 +8,8 @@ Notes on projects and experiments from Drawing, Moving, and Seeing with Code
 
 [🐢 LOGO language tests](2021-02-08-LOGO.md) - LOGO programming language tests
 
+[Hydra test](2021-04-06-hyra.md)
+
 ### Resources
 
 [p5.js](https://p5js.org/)
