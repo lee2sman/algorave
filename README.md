@@ -8,4 +8,6 @@ Notes on projects and experiments from Drawing, Moving, and Seeing with Code
 
 [🐢 LOGO language tests](2021-02-08-LOGO.md) - LOGO programming language tests
 
+[Hydra test](2021-04-06-hyra.md)
+
 [🎚️ Triadex Muse](2021-04-15-triadex-muse.md) - facsimiles of Alfie, tribute to the Triadex Muse
